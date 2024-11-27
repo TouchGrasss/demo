@@ -1,0 +1,16 @@
+1 october
+sor tec depends on the situation it depends on two parameter
+1-time complexity - execution time of a program that means time taken for execution of program
+2.space complexity - space that means space taken by the program
+sorting can be performed using several techniques or methods some are 1.bubble sort ,insertion sort,selection sort,quick sort
+
+Bubble sort
+best case (time complexity) omega
+worst case (time complexity) bigo
+average case (time complexity) theta
+time complexitiy
+space complexity 
+is it stable or not
+approach?
+inplace or not
+strucutre or value
